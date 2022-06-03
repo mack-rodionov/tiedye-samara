@@ -1,0 +1,50 @@
+@media screen and (max-width: 900px) {
+	header {
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+	.logo {
+		width: auto;
+		height: 70px;
+	}
+	nav ul li a {
+		white-space: nowrap;
+		font-size: calc(1.5em + 1vw);
+	}
+	.icon {
+		height: 70px;
+		width: auto;
+	}
+	.promo {
+		margin: 0 auto;
+	}
+	.promo-image {
+		display: none;
+	}
+	.promo-image-mobile {
+		display: flex;
+	}
+	.promo-text {
+		padding: 0;
+	}
+	.text__h3 {
+		white-space: nowrap;
+	}
+	.text__p1 {
+		font-size: 10px;
+	}
+	.catalog-text__h {
+		margin: 20px auto 16px auto;
+	}
+	.gallery {
+		margin: 0 auto 70px auto;
+	}
+	.image-catalog {
+		max-height: 350px;
+	}
+	.contact {
+		flex-wrap: wrap;
+		margin: 0 auto 50px auto;
+	}
+}

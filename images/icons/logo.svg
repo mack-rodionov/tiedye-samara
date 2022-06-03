@@ -1,0 +1,22 @@
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_7_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="102" width="302" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" id="svg_1" d="m52.67107,18.56721c-1.74385,5.23976 -5.93864,8.94198 -10.85294,8.94198c-4.91736,0 -9.11305,-3.70222 -10.85303,-8.94198l-26.57457,13.75734l7.47654,21.5099l8.21179,-4.25282l0,43.85383l43.76746,0l0,-43.69887l7.91695,4.1003l7.47941,-21.50988l-26.57162,-13.7598l0,0z" stroke-width="3" fill="#fff"/>
+  <ellipse ry="41.36987" rx="41.36987" id="svg_2" cy="41.90497" cx="41.91781" fill-opacity="0.7" fill="#00bfbf"/>
+  <text filter="url(#svg_7_blur)" font-weight="bold" font-style="normal" stroke="#000" transform="matrix(10.442699083425671,0,0,12.692978348108541,-1271.6269618433378,-398.25073541976354) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="5" id="svg_7" y="36.12213" x="129.51131" stroke-opacity="null" stroke-width="0" fill="#000000">TIE-DYE</text>
+  <text font-weight="normal" font-style="italic" stroke="#000" transform="matrix(31.64048999276518,0,0,30.793157122516057,-2951.4682410095666,-2418.292316685484) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="1" id="svg_8" y="81.43396" x="95.41364" stroke-opacity="null" stroke-width="0" fill="#000000">самара-принт</text>
+ </g>
+</svg>

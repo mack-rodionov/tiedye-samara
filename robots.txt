@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Host: https://tiedye-samara.ru
+Sitemap: https://tiedye-samara.ru/sitemap.xml
